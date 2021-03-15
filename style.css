@@ -13,14 +13,12 @@ header{
     margin-left: 55px;
 }
 .site-name-text{
-    padding-top: 3px;
-    padding-left: 7px;
+  padding-left: 7px;
+  padding-right: 8px;
 }
 .site-name{
 height: 40px;
-width: 306px;
-left: 127px;
-top: 47px;
+width: 320px;
 color: #295091;
 border-radius: 5px;
 font-family: 'Rubik';
@@ -29,6 +27,7 @@ font-style: normal;
 font-weight: 700;
 line-height: 33px;
 background-color: white;
+text-transform: uppercase;
 
 }
 .valyuta{
@@ -140,14 +139,14 @@ margin-left: 335px;
 }
 .telegram-text{
 font-family: Rubik;
-font-size: 16px;
+font-size: 14px;
 font-style: normal;
 font-weight: 500;
 line-height: 19px;
 letter-spacing: 0em;
 text-align: left;
 color: white;
-padding-bottom: 6px ;
+padding-bottom: 5px;
 
 }
 .site-ad{
