@@ -11,6 +11,10 @@ header{
     justify-content: space-between;
     padding: 25px 15px;
 }
+.site-name-text{
+    padding-top: 3px;
+    padding-left: 7px;
+}
 .site-name{
 height: 40px;
 width: 306px;
