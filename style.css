@@ -12,22 +12,15 @@ header{
     padding: 25px 15px;
     margin-left: 55px;
 }
-.site-name-text{
-  padding-left: 7px;
-  padding-right: 8px;
-}
+
 .site-name{
 height: 40px;
 width: 320px;
-color: #295091;
 border-radius: 5px;
-font-family: 'Rubik';
-font-size: 28px;
-font-style: normal;
-font-weight: 700;
-line-height: 33px;
 background-color: white;
-text-transform: uppercase;
+padding-top: 6.5px;
+padding-left: 6px;
+
 
 }
 .valyuta{
@@ -106,7 +99,7 @@ width: 28px;
 top: 44px;
 border-radius: 4px;
 background-color: white;
-margin-left: 335px;
+margin-left: 330px;
 }
 .sign{
     padding-top: 5px;
