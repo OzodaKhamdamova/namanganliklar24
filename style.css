@@ -149,3 +149,38 @@ padding-bottom: 5px;
     padding: 10px;
     
 }
+.statistics{
+    background-image: url('images/Rectangle.png');
+    width: 1200px;
+    height: 133px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.statistic-list{
+    display: flex;
+   
+}
+.statistic-info{
+    width: 406px;
+    height: 74px;
+    
+}
+.statistic-list-item{
+    padding-top: 41px;
+    padding-bottom: 40px;
+    list-style-type: none;
+    margin-right: 50px;
+   
+   
+}
+
+    
+.statistic-info{
+    margin-right: 70px;
+}
+
+
+.state-index{
+    width: 792px;
+    display: flex;
+}
